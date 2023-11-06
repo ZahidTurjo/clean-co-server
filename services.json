@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Basic Home Cleaning",
+      "description": "A standard cleaning package for your home, covering essential cleaning tasks.",
+      "price": 75.00,
+      "features": ["Dust and vacuum all rooms", "Clean kitchen surfaces", "Sanitize bathroom fixtures", "Empty trash cans"]
+    },
+    {
+      "name": "Deep Cleaning Deluxe",
+      "description": "A thorough deep cleaning service for a spotless and sanitized home.",
+      "price": 150.00,
+      "features": ["Dust and vacuum all rooms", "Scrub and sanitize kitchen appliances", "Clean and disinfect bathroom tiles", "Wash windows"]
+    },
+    {
+      "name": "Office Cleaning",
+      "description": "Keep your workplace clean and hygienic with our professional office cleaning service.",
+      "price": 120.00,
+      "features": ["Dust and vacuum workspaces", "Empty and clean trash receptacles", "Disinfect common areas", "Carpet cleaning (optional)"]
+    },
+    {
+      "name": "Carpet Cleaning Special",
+      "description": "Revive your carpets with our specialized carpet cleaning service.",
+      "price": 60.00,
+      "features": ["Pre-inspection and vacuuming", "Stain pre-treatment", "Hot water extraction", "Deodorize and protect"]
+    },
+    {
+      "name": "Window Washing Service",
+      "description": "Enhance the appearance of your home with crystal-clear windows.",
+      "price": 80.00,
+      "features": ["Interior and exterior window cleaning", "Frame and sill wipe-down", "Screen cleaning", "Removal of stubborn stains"]
+    },
+    {
+      "name": "Move-in/Move-out Cleaning",
+      "description": "Prepare your new home for occupancy or leave it spotless after moving out.",
+      "price": 110.00,
+      "features": ["Thorough cleaning of all rooms", "Appliance cleaning", "Cabinet and closet cleaning", "Garage/attic/basement cleaning (optional)"]
+    }
+  ]
+  
